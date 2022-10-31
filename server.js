@@ -8,7 +8,8 @@
 * Student ID: 184017218 
 * Date: 10/30/2022
 *
-* 
+* Had to use cyclic, im too stupid to figure out Heroku
+* https://drab-cyan-jackrabbit-shoe.cyclic.app/
 *
 ********************************************************************************/ 
 
